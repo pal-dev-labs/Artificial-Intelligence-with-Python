@@ -9,12 +9,12 @@ Docente: Giandomenico Palumbo
 
 # Strumenti utilizzati
 Per seguire il corso è possibile utilizzare un laptop personale.
-In questo caso è necessario installare sul proprio laptop la suite **Anaconda Navigator** (scaricabile dal sito web https://anaconda.org/anaconda/anaconda-navigator)
-Per l'installazione potete seguire le istruzioni di questo video.
+In questo caso è necessario installare sul proprio laptop la suite **Anaconda Navigator** (scaricabile dal sito web https://anaconda.org/anaconda/anaconda-navigator). Per l'installazione potete seguire le video-istruzioni pubblicate sul sito classroom del corso (vedi sotto)
 
 Coloro che non dispongono di un laptop personale possono utilizzare i laptop del laboratorio di informatica. E' tuttavia necessario **disporre di un account google** (chi non lo avesse lo può creare dal sito https://www.google.com/intl/it/account/about/)
 
-Eventuali comunicazioni relative al corso sono pubblicate sul seguente link di Classroom
+# Ambiente di lavoro GOOGLE CLASSROOM
+Per gli studenti del corso, il materiale del corso ed eventuali comunicazioni sono pubblicate in un ambiente Google Classroom dedicato, fruibile dal seguente link
 https://classroom.google.com/c/NTgyNDg1NTU4NDA5?cjc=ow5m5ob
 
 # Descrizione del corso
@@ -27,7 +27,12 @@ Il corso si pone anche l’obiettivo di creare un corpus di studenti che conosco
 
 Alla fine del corso agli studenti (organizzati in gruppo) sarà assegnato un problema reale che può essere risolto con un algoritmo di Machine Learning (per es. classificare delle immagini o dividere le mail in spam o non spam). Gli studenti dovranno quindi sviluppare un programma in grado di leggere una banca dati predefinita, effettuare il training dell’algoritmo di Machine Learning e applicare il modello ai nuovi dati in modo da poterli classificare.  
    
-# Libri di testo
+# Libri di testo e link utili
+
+1. Anaconda Navigator
+https://docs.anaconda.com/navigator/index.html
+2. Jupyter Notebook
+https://docs.jupyter.org/en/latest/
 
 Section in progress...
 
