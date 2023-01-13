@@ -9,7 +9,7 @@ Docente: Giandomenico Palumbo
 
 # Strumenti utilizzati
 Per seguire il corso è possibile utilizzare un laptop personale.
-In questo caso è necessario installare sul proprio laptop la suite **Anaconda Navigator** (scaricabile dal sito web https://anaconda.org/anaconda/anaconda-navigator). Per l'installazione potete seguire le video-istruzioni pubblicate sul sito classroom del corso (vedi sotto) oppure scaricabili da qui https://drive.google.com/file/d/14Jd2n0vFg09-hQrM1nxaBgli35vAPpIh/view?usp=share_link
+In questo caso è necessario installare sul proprio laptop la suite **Anaconda Navigator** (scaricabile dal sito web https://anaconda.org/anaconda/anaconda-navigator). Per l'installazione potete seguire le video-istruzioni pubblicate sul sito classroom del corso (vedi sotto) oppure scaricabili da qui https://drive.google.com/file/d/14Jd2n0vFg09-hQrM1nxaBgli35vAPpIh/view?usp=share_link (se scaricate il video sul vostro pc la risoluzione è migliore)
 
 Coloro che non dispongono di un laptop personale possono utilizzare i laptop del laboratorio di informatica. E' tuttavia necessario **disporre di un account google** (chi non lo avesse lo può creare dal sito https://www.google.com/intl/it/account/about/)
 
