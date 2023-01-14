@@ -13,8 +13,8 @@ In questo caso è necessario installare sul proprio laptop la suite **Anaconda N
 
 Coloro che non dispongono di un laptop personale possono utilizzare i laptop del laboratorio di informatica. L'ambiente utilizzato è **Google Colab** che è fruibile con un browser (Chrome per es.) da un qualsiasi PC, direttamente dall'indirizzo https://colab.research.google.com/ 
 
-Per accedere a Colab è necessario disporre di un **account google** (chi non lo avesse lo può creare dal sito https://www.google.com/intl/it/account/about/). Una volta creata l'utenza google effettuate il log-in per verificare l'accesso all'ambiente. 
-**RICORDATE** di portare con voi nel laboratorio di informatica **UID e PWD di accesso a google**.
+Per accedere a Colab è necessario disporre di un **account Google** (chi non lo avesse lo può creare dal sito https://www.google.com/intl/it/account/about/). Una volta creata l'utenza google effettuate il log-in per verificare l'accesso all'ambiente. 
+**RICORDATE** di portare con voi nel laboratorio di informatica **UID e PWD di accesso a Google**.
 
 # Ambiente di lavoro GOOGLE CLASSROOM
 Per gli studenti del corso, il materiale del corso ed eventuali comunicazioni sono pubblicate in un ambiente Google Classroom dedicato, fruibile dal seguente link
