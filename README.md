@@ -11,7 +11,10 @@ Docente: Giandomenico Palumbo
 Per seguire il corso è possibile utilizzare un laptop personale.
 In questo caso è necessario installare sul proprio laptop la suite **Anaconda Navigator** (scaricabile dal sito web https://anaconda.org/anaconda/anaconda-navigator). Per l'installazione potete seguire le video-istruzioni pubblicate sul sito classroom del corso (vedi sotto) oppure scaricabili da qui https://drive.google.com/drive/folders/1jKGClxHYDIsU5MD2obbfZ5K3KhnypRiX?usp=share_link (suggerisco di cliccare sul tasto destro e fare il download del file e visualizzarlo in locale; la risoluzione è migliore).
 
-Coloro che non dispongono di un laptop personale possono utilizzare i laptop del laboratorio di informatica. E' tuttavia necessario **disporre di un account google** (chi non lo avesse lo può creare dal sito https://www.google.com/intl/it/account/about/)
+Coloro che non dispongono di un laptop personale possono utilizzare i laptop del laboratorio di informatica. L'ambiente utilizzato è **Google Colab** che è fruibile con un browser (Chrome per es.) da un qualsiasi PC, direttamente dall'indirizzo https://colab.research.google.com/ 
+
+Per accedere a Colab è necessario disporre di un **account google** (chi non lo avesse lo può creare dal sito https://www.google.com/intl/it/account/about/). Una volta creata l'utenza google effettuate il log-in per verificare l'accesso all'ambiente. 
+**RICORDATE** di portare con voi nel laboratorio di informatica **UID e PWD di accesso a google**.
 
 # Ambiente di lavoro GOOGLE CLASSROOM
 Per gli studenti del corso, il materiale del corso ed eventuali comunicazioni sono pubblicate in un ambiente Google Classroom dedicato, fruibile dal seguente link
