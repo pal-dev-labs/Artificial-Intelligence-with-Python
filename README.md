@@ -5,6 +5,8 @@ Docente: Giandomenico Palumbo
 
 **Il contenuto di questo corso evolve in linea con l'evoluzione tecnologica**
 
+A BREVE SARA' PUBBLICATA LA DATA DI INIZIO CORSO
+
 * Sessione 1. gennaio/maggio 2023, Giovedi' dalle ore 14:30 alle ore 16:45, Luogo: Laboratorio di Informatica, sede centrale 
 
 # Strumenti utilizzati
