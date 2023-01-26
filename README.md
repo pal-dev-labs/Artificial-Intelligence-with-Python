@@ -1,7 +1,7 @@
 # Artificial Intelligence with Python
 [IIS via ROMA 298](https://www.liceoguidonia.edu.it/)
 
-Docente: Giandomenico Palumbo
+Docente: Prof. Giandomenico Palumbo
 
 **Il contenuto di questo corso evolve in linea con l'evoluzione tecnologica**
 
