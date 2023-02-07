@@ -44,8 +44,11 @@ https://docs.anaconda.com/navigator/index.html
 https://docs.jupyter.org/en/latest/
 3. Nei Notebook Jupyter del presente corso sono inserite diversi commenti che descrivono il codice man mano implementato.
 4. Python base:
+
     4.1 Corso base Python del Prof. Nicola Cassetta: https://ncassetta.altervista.org/Tutorial_Python/index.html
+
     4.2 Jake VanderPlas - A Whirlwind Tour of Python - O'Reilly: https://github.com/jakevdp/WhirlwindTourOfPython
+
     4.3 M. Lutz - Learning Python - O'Reilly
 
 Section in progress...
