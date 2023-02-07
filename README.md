@@ -9,6 +9,8 @@ DATA INIZIO CORSO: 02 FEBBRAIO 2023
 
 * Sessione 1. febbraio/maggio 2023, ogni giovedi' dalle ore 14:30 alle ore 16:45, presso il Laboratorio di Informatica, sede centrale IIS via Roma 298
 
+Il presente corso è valido come alternanza scuola-lavoro (P.C.T.O.)
+
 # Strumenti utilizzati
 Per seguire il corso è possibile utilizzare un laptop personale.
 In questo caso è necessario installare sul proprio laptop la suite **Anaconda Navigator** (scaricabile dal sito web https://anaconda.org/anaconda/anaconda-navigator). Per l'installazione potete seguire le video-istruzioni pubblicate sul sito classroom del corso (vedi sotto) oppure visionabili sul mio canale YouTube https://www.youtube.com/channel/UCvE1MUP-vbzUQnV_N4nbPfA
@@ -32,12 +34,19 @@ Il corso si pone anche l’obiettivo di creare un corpus di studenti che conosco
 
 Alla fine del corso agli studenti (organizzati in gruppo) sarà assegnato un problema reale che può essere risolto con un algoritmo di Machine Learning (per es. classificare delle immagini o dividere le mail in spam o non spam). Gli studenti dovranno quindi sviluppare un programma in grado di leggere una banca dati predefinita, effettuare il training dell’algoritmo di Machine Learning e applicare il modello ai nuovi dati in modo da poterli classificare.  
    
-# Libri di testo e link utili
+# Materiale didattico e link utili
+Nel corso vengono trattati molteplici argomenti afferenti a diverse discpipline scientifiche quali Matematica, Fisica, Data Science, Computer Science e pertanto non esiste un unico libro di testo che racchiude tutti gli argomenti. 
+Presentiamo di seguito un elenco del materiale che può essere consultato per gli specifici approfondimenti.
 
 1. Anaconda Navigator
 https://docs.anaconda.com/navigator/index.html
 2. Jupyter Notebook
 https://docs.jupyter.org/en/latest/
+3. Nei Notebook Jupyter del presente corso sono inserite diversi commenti che descrivono il codice man mano implementato.
+4. Python base:
+    4.1 Corso base Python del Prof. Nicola Cassetta: https://ncassetta.altervista.org/Tutorial_Python/index.html
+    4.2 Jake VanderPlas - A Whirlwind Tour of Python - O'Reilly: https://github.com/jakevdp/WhirlwindTourOfPython
+    4.3 M. Lutz - Learning Python - O'Reilly
 
 Section in progress...
 
