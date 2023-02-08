@@ -62,7 +62,12 @@ Section in progress...
 
 # Syllabus
 
-Section in progress...
+1. Lezione 1
+    - Introduzione ad Anaconda, Jupyter, Google Colab
+    - Introduzione alle variabili e al TYPE di una variabile. I type Int, Float, Boolean, Str e list
+    - Operazioni aritmentiche e di confronto tra variabili. Operatori booleani.
+    - Le funzioni in Python: funzioni predefinite e definizione di una nuova funzione
+    - Esempio di plotting di una funzione
 
 # Datasets
 
