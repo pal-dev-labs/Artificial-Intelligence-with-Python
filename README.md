@@ -45,11 +45,11 @@ https://docs.jupyter.org/en/latest/
 3. Nei Notebook Jupyter del presente corso sono inserite diversi commenti che descrivono il codice man mano implementato.
 4. Python base:
 
-    4.1 Corso base Python del Prof. Nicola Cassetta: https://ncassetta.altervista.org/Tutorial_Python/index.html
+    4.1 Corso base Python del Prof. Nicola Cassetta (semplice): https://ncassetta.altervista.org/Tutorial_Python/index.html
 
     4.2 Jake VanderPlas - A Whirlwind Tour of Python - O'Reilly: https://github.com/jakevdp/WhirlwindTourOfPython
 
-    4.3 M. Lutz - Learning Python - O'Reilly
+    4.3 M. Lutz - Learning Python - O'Reilly (molto dettagliato)
 
 Section in progress...
 
@@ -64,8 +64,8 @@ Section in progress...
 
 1. Lezione 1
     - Introduzione ad Anaconda, Jupyter, Google Colab
-    - Introduzione alle variabili e al TYPE di una variabile. I type Int, Float, Boolean, Str e list
-    - Operazioni aritmentiche e di confronto tra variabili. Operatori booleani.
+    - Introduzione alle variabili e al TYPE di una variabile. I type int, float, boolean, str e list
+    - Operazioni aritmetiche e di confronto tra variabili. Operatori booleani.
     - Le funzioni in Python: funzioni predefinite e definizione di una nuova funzione
     - Esempio di plotting di una funzione
 
