@@ -51,6 +51,8 @@ https://docs.jupyter.org/en/latest/
 
     4.3 M. Lutz - Learning Python - O'Reilly (molto dettagliato)
 
+    4.4 Per le esercitazioni possono essere utilizzati gli esercizi della W3 Resource.com visionabili al sito https://www.w3resource.com/python-exercises/basic/
+
 Section in progress...
 
 # Obiettivi del corso
@@ -68,6 +70,12 @@ Section in progress...
     - Operazioni aritmetiche e di confronto tra variabili. Operatori booleani.
     - Le funzioni in Python: funzioni predefinite e definizione di una nuova funzione
     - Esempio di plotting di una funzione
+2. Lezione 2
+    - Come richiamare l'help dei comandi Python
+    - L'istruzione condizionale IF - ELIF - ELSE
+    - L'istruzione che genera i loop: FOR 
+    - Come utilizzare le istruzioni condizionali e i LOOPS per risolvere alcuni problemi
+    - La relazione tra le variabili e gli oggetti Python. I metodi di un oggetto. La sintassi nomevariab      ile.metodo
 
 # Datasets
 
