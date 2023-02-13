@@ -18,7 +18,10 @@ In questo caso è necessario installare sul proprio laptop la suite **Anaconda N
 Coloro che non dispongono di un laptop personale possono utilizzare i laptop del laboratorio di informatica. L'ambiente utilizzato è **Google Colab** che è fruibile con un browser (Chrome per es.) da un qualsiasi PC, direttamente dall'indirizzo https://colab.research.google.com/ 
 
 Per accedere a Colab è necessario disporre di un **account Google** (chi non lo avesse lo può creare dal sito https://www.google.com/intl/it/account/about/). Una volta creata l'utenza google effettuate il log-in per verificare l'accesso all'ambiente. 
-**RICORDATE** di portare con voi nel laboratorio di informatica **UID e PWD di accesso a Google**.
+
+Per poter importare i notebooks in Colab è necessario disporre di un **account GitHub**. Chi non lo avesse lo può creare dal sito web https://github.com/join
+
+**RICORDATE** di portare con voi nel laboratorio di informatica **UID e PWD di accesso a Google e GitHub**.
 
 # Ambiente di lavoro Google Classroom
 Per gli studenti del corso, il materiale del corso ed eventuali comunicazioni sono pubblicate in un ambiente Google Classroom dedicato, fruibile dal seguente link
@@ -45,7 +48,7 @@ https://docs.jupyter.org/en/latest/
 3. Nei Notebook Jupyter del presente corso sono inserite diversi commenti che descrivono il codice man mano implementato.
 4. Python base:
 
-    4.1 Corso base Python del Prof. Nicola Cassetta (semplice): https://ncassetta.altervista.org/Tutorial_Python/index.html
+    4.1 Corso base Python del Prof. Nicola Cassetta (in Italiano:) https://ncassetta.altervista.org/Tutorial_Python/index.html
 
     4.2 Jake VanderPlas - A Whirlwind Tour of Python - O'Reilly: https://github.com/jakevdp/WhirlwindTourOfPython
 
@@ -75,7 +78,7 @@ Section in progress...
     - L'istruzione condizionale IF - ELIF - ELSE
     - L'istruzione che genera i loop: FOR 
     - Come utilizzare le istruzioni condizionali e i LOOPS per risolvere alcuni problemi
-    - La relazione tra le variabili e gli oggetti Python. I metodi di un oggetto. La sintassi nomevariab      ile.metodo
+    - La relazione tra le variabili e gli oggetti Python. I metodi di un oggetto. La sintassi nomevariabile.metodo
 
 # Datasets
 
