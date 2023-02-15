@@ -48,7 +48,7 @@ https://docs.jupyter.org/en/latest/
 3. Nei Notebook Jupyter del presente corso sono inserite diversi commenti che descrivono il codice man mano implementato.
 4. Python base:
 
-    4.1 Corso base Python del Prof. Nicola Cassetta (in Italiano:) https://ncassetta.altervista.org/Tutorial_Python/index.html
+    4.1 Corso base Python del Prof. Nicola Cassetta (in Italiano): https://ncassetta.altervista.org/Tutorial_Python/index.html
 
     4.2 Jake VanderPlas - A Whirlwind Tour of Python - O'Reilly: https://github.com/jakevdp/WhirlwindTourOfPython
 
@@ -59,11 +59,11 @@ https://docs.jupyter.org/en/latest/
 Section in progress...
 
 # Obiettivi del corso
-1. saper utilizzare i comandi base di Python, le strutture cicliche e condizionate e le strutture dati di base (Liste e Dictionary)
-2. saper utilizzare le principali librerie di Python per gestire l’algebra lineare (Numpy), la Data Manipulation (Pandas), e la Data and Information Visualization (MatPlotLib)
-3. saper utilizzare le librerie di Python Scikit-Learn e SciPy limitatamente ai tool statistici di Machine Learning relativi alla regression e classification
-4. acquisire le basi matematico-statistiche minimali per comprendere i modelli utilizzati (rudimenti di statistica, algebra lineare e calcolo)
-5. eseguire programmi-esempio che implementano algoritmi di regression e classification utilizzando le librerie Python Scikit Learn e Scipy in modo da saperli adattare a situazioni simili.
+1. Saper utilizzare i comandi base di Python, le strutture cicliche e condizionate e le strutture dati di base (Liste e Dictionary)
+2. Saper utilizzare le principali librerie di Python per gestire l’algebra lineare (Numpy), la Data Manipulation (Pandas), e la Data and Information Visualization (MatPlotLib)
+3. Saper utilizzare le librerie di Python Scikit-Learn e SciPy limitatamente ai tool statistici di Machine Learning relativi alla regression e classification
+4. Acquisire le basi matematico-statistiche minimali per comprendere i modelli utilizzati (rudimenti di statistica, algebra lineare e calcolo)
+5. Eseguire programmi-esempio che implementano algoritmi di regression e classification utilizzando le librerie Python Scikit Learn e Scipy in modo da saperli adattare a situazioni simili.
 
 # Syllabus
 
