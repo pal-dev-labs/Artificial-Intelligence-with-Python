@@ -93,7 +93,7 @@ Section in progress...
     - La Vectorization e il Broadcasting
     - Come applicare una funzione ad un array. La Vectorization delle funzioni
     - Prima applicazione con la libreria Numpy: il plotting di una funzione generica di una variabile
-    - Seconda applicazione della libraria Numpy: come modellizzare una immagine con array 
+    - Seconda applicazione della libraria Numpy: come modellizzare un'immagine con array 
     
 # Datasets
 
