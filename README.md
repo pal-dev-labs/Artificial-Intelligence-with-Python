@@ -56,6 +56,10 @@ https://docs.jupyter.org/en/latest/
 
     4.4 Per le esercitazioni possono essere utilizzati gli esercizi della W3 Resource.com visionabili al sito https://www.w3resource.com/python-exercises/basic/
 
+5. La libreria Numpy:
+
+    5.1 Jake VanderPlas - Python Data Science Handbook (Cap. 2 Introduction to Numpy) - O'Reilly: https://github.com/jakevdp/PythonDataScienceHandbook
+
 Section in progress...
 
 # Obiettivi del corso
@@ -79,7 +83,18 @@ Section in progress...
     - L'istruzione che genera i loop: FOR 
     - Come utilizzare le istruzioni condizionali e i LOOPS per risolvere alcuni problemi
     - La relazione tra le variabili e gli oggetti Python. I metodi di un oggetto. La sintassi nomevariabile.metodo
-
+3. Lezione 3
+    - Primi esempi di algoritmi e diagrammi di flusso. Estrazione di numeri primi da una lista e ricerca di una parola in un testo
+    - Introduzione ai moduli Python: il modulo Math
+    - Introduzione alla libreria Numpy e al tipo ndarray
+    - Modalità di creazione di array, matrici e tensori in Numpy
+    - Gli attributi ndim, shape e size
+    - Prime operazioni con gi array: somma, sottrazione e moltiplicazione per scalare. 
+    - La Vectorization e il Broadcasting
+    - Come applicare una funzione ad un array. La Vectorization delle funzioni
+    - Prima applicazione con la libreria Numpy: il plotting di una funzione generica di una variabile
+    - Seconda applicazione della libraria Numpy: come modellizzare una immagine con array 
+    
 # Datasets
 
 Section in progress...
