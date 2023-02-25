@@ -83,7 +83,7 @@ Section in progress...
     - L'istruzione che genera i loop: FOR 
     - Come utilizzare le istruzioni condizionali e i LOOPS per risolvere alcuni problemi
     - La relazione tra le variabili e gli oggetti Python. I metodi di un oggetto. La sintassi nomevariabile.metodo
-3. Lezione 3
+3. Lezione 3: Numpy parte 1
     - Primi esempi di algoritmi e diagrammi di flusso. Estrazione di numeri primi da una lista e ricerca di una parola in un testo
     - Introduzione ai moduli Python: il modulo Math
     - Introduzione alla libreria Numpy e al tipo ndarray
@@ -94,6 +94,11 @@ Section in progress...
     - Come applicare una funzione ad un array. La Vectorization delle funzioni
     - Prima applicazione con la libreria Numpy: il plotting di una funzione generica di una variabile
     - Seconda applicazione della libraria Numpy: come modellizzare un'immagine con array 
+4. Lezione 4: Numpy parte 2
+    - Le celle MarkDown del notebook Jupyter. Come formattare il testo e inserire formule matematiche 
+    - Array indexing e slicing: come etrarre singoli elementi o sottoinsiemi di array e matrici da altri array
+    - Rudimenti di algebra delle matrici in Numpy: somma di matrici, prodotto scalare tra vettori, prodotto di matrici, determinante di una matrice
+    - 
     
 # Datasets
 
