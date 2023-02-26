@@ -93,12 +93,12 @@ Section in progress...
     - La Vectorization e il Broadcasting
     - Come applicare una funzione ad un array. La Vectorization delle funzioni
     - Prima applicazione con la libreria Numpy: il plotting di una funzione generica di una variabile
-    - Seconda applicazione della libraria Numpy: come modellizzare un'immagine con array 
+    - Seconda applicazione della libreria Numpy: come modellizzare un'immagine con un array 
 4. Lezione 4: Numpy parte 2
     - Le celle MarkDown del notebook Jupyter. Come formattare il testo e inserire formule matematiche 
-    - Array indexing e slicing: come etrarre singoli elementi o sottoinsiemi di array e matrici da altri array
+    - Array indexing e slicing: come estrarre singoli elementi o sottoinsiemi di array e matrici da altri array
     - Rudimenti di algebra delle matrici in Numpy: somma di matrici, prodotto scalare tra vettori, prodotto di matrici, determinante di una matrice
-    - 
+  
     
 # Datasets
 
