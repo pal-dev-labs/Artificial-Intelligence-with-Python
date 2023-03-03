@@ -98,8 +98,15 @@ Section in progress...
     - Le celle MarkDown del notebook Jupyter. Come formattare il testo e inserire formule matematiche 
     - Array indexing e slicing: come estrarre singoli elementi o sottoinsiemi di array e matrici da altri array
     - Rudimenti di algebra delle matrici in Numpy: somma di matrici, prodotto scalare tra vettori, prodotto di matrici, determinante di una matrice
-  
+5. Lezione 5: Pandas parte 1
+    - Come importare un file csv in Pandas
+    - Proprietà elementari degli oggetti Dataframe e Series
+    - Come estrarre righe e colonne dai dataframe (il metodo iloc)
+    - Come effettuare lo slicing sulle righe e sulle colonne
+    - Introduzione ai boolean filter. Primi esempi
+    - Primo esempio di plotting di dati estratti dal dataframe
     
 # Datasets
+    - Dataset sui terremoti nel mondo - file earthquakes.csv 
 
 Section in progress...
