@@ -105,7 +105,13 @@ Section in progress...
     - Come effettuare lo slicing sulle righe e sulle colonne
     - Introduzione ai boolean filter. Primi esempi
     - Primo esempio di plotting di dati estratti dal dataframe
-    
+6. Lezione 6: Pandas parte 2
+    - Come creare un plot Bar e un plot Pie con un dataframe Pandas
+    - Come aggregare i dati: le tabelle Pivot e gli indici multipli
+    - Come creare un istogramma
+    - Come definire una metrica aggregando colonne del dataframe in una nuova colonna
+    - Esercizio di data analysis su un dataset reale (dataset calciatori)
+
 # Datasets
     - Dataset sui terremoti nel mondo - file earthquakes.csv 
 
