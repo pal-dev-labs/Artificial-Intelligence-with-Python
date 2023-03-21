@@ -111,6 +111,13 @@ Section in progress...
     - Come creare un istogramma
     - Come definire una metrica aggregando colonne del dataframe in una nuova colonna
     - Esercizio di data analysis su un dataset reale (dataset calciatori)
+7. Lezione 7: Data Visualisation
+    - Introduzione a MatPlotLib
+    - Il comando plot e i principali attributi
+    - Come creare grafici da un dataframe 
+    - Come creare uno scatterplot
+    - Three-Dimensional Plotting in MatPlotLib
+    - Density and Contour Plots
 
 # Datasets
     - Dataset sui terremoti nel mondo - file earthquakes.csv 
