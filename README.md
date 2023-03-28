@@ -118,6 +118,13 @@ Section in progress...
     - Come creare uno scatterplot
     - Three-Dimensional Plotting in MatPlotLib
     - Density and Contour Plots
+8. Lezione 8: Introduction to Supervised Learning
+    - Overview su Artificial Intelligence, Machine Learning, Supervised Learning e Unsupervised Learning
+    - Supervised Learning con valori continui per una sola feature: il problema della regressione
+    - Notazione di base: features, target, training set e learning algorithm
+    - Introduzione alla hypotesis function: il caso della funzione lineare e parametrica (linear regression)
+    - Introduzione al Mean Square Error (MSE) e alla Cost Function
+9. Lezione 9: Multiple Features Linear Regression e Polynomial Regression
 
 # Datasets
     - Dataset sui terremoti nel mondo - file earthquakes.csv 
