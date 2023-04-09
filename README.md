@@ -125,6 +125,11 @@ Section in progress...
     - Introduzione alla hypotesis function: il caso della funzione lineare e parametrica (linear regression)
     - Introduzione al Mean Square Error (MSE) e alla Cost Function
 9. Lezione 9: Multiple Features Linear Regression e Polynomial Regression
+    - La necessità di considerare una regressione lineare con più predictors
+    - Hypotesis function per una regressione lineare con più predictors. Formalismo algebrico
+    - Esempio di applicazione di una regressione lineare con più predictors
+    - Perchè estendere la regressione lineare ad un modello polinomiale
+    - Esempi di applicazione. Introduzione al problema dell'overfitting
 
 # Datasets
     - Dataset sui terremoti nel mondo - file earthquakes.csv 
