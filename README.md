@@ -1,5 +1,5 @@
 # Artificial Intelligence with Python
-[IIS via ROMA 298](https://www.liceoguidonia.edu.it/)
+[IIS Ettore Majorana - via ROMA 298 - Guidonia](https://www.liceoguidonia.edu.it/)
 
 Docente: Prof. Giandomenico Palumbo
 
