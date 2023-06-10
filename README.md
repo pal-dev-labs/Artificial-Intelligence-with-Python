@@ -138,11 +138,11 @@ Section in progress...
     - Vettorizzazione delle parole. La libreria spaCy. Introduzione al concetto di token    
     - Cosine similarity e ricerca dei "closest neighbors"
     - Sentence similarity. Cenni a WordToVec
-11. Lezione 11: Progetto per la realizzazione di un classificatore di sms Spam/no spam
+11. Lezione 11: Progetto per la realizzazione di un classificatore di sms Spam/no Spam
     - Codifica del data processing: importazione dei dati e delle librerie, data cleaning
     - Data visualization utilizzando wordcloud (spam/no spam)
     - Predisposizione al machine learning: utilizzo della piattaforma NLTK per la rimozione delle stop words e punctuations e per la conversione del testo in vettori (count vectorizer e TF-IDF)
-    - Costruzione del modello di classificazione (slitting dai dati in train e test). Implementazione della logist regression
+    - Costruzione del modello di classificazione (splitting dai dati in train e test). Implementazione della logist regression
     - Utilizzo di altri modelli di classificazione (Naive Bays, Tree, KNC)
     - Valutazione dell'accuracy tramite confusion matrix
     - Forecasting
