@@ -131,6 +131,28 @@ Section in progress...
     - Perchè estendere la regressione lineare ad un modello polinomiale
     - Esempi di applicazione. Introduzione al problema dell'overfitting
 
+10. - Lezione 10: La tecnica dell'embedding nel NLP
+    - L'embedding nella rappresentazione dei colori. Esempi di vettorizzazione. Distanze tra i colori. Similitudini
+    - L'embedding per la rappresentazione delle parole. Distributional Semantics e ipotesi distributiva
+    - Vettori di parole per mezzo del conteggio dei contesti. Il progetto GloVe della Stanford University. 
+    - Vettorizzazione delle parole. La libreria spaCy. Introduzione al concetto di token    
+    - Cosine similarity e ricerca dei "closest neighbors"
+    - Sentence similarity. Cenni a WordToVec
+11. - Lezione 11: Progetto per la realizzazione di un classificatore di sms Spam/no spam
+    - Codifica del data processing: importazione dei dati e delle librerie, data cleaning
+    - Data visualization utilizzando wordcloud (spam/no spam)
+    - Predisposizione al machine learning: utilizzo della piattaforma NLTK per la rimozione delle stop words e punctuations e per la conversione del testo in vettori (count vectorizer e TF-IDF)
+    - Costruzione del modello di classificazione (slitting dai dati in train e test). Implementazione della logist regression
+    - Utilizzo di altri modelli di classificazione (Naive Bays, Tree, KNC)
+    - Valutazione dell'accuracy tramite confusion matrix
+    - Forecasting
+12. - Introduzione alle reti neurali (lezione solo teorica, senza notebook).
+    - Il modello a singolo neurone (Perceptron)
+    - Il modello a più neuroni. La costruzione di una rete neurale
+    - L'importanza degli strati interni di una rete neurale
+    - Visione del filmato "But what is a neural network?"  https://www.youtube.com/watch?v=aircAruvnKk
+    - Sviluppi e applicazioni dei Neural Networks
+
 # Datasets
     - Dataset sui terremoti nel mondo - file earthquakes.csv 
     - Dataset calciatori - file player_20.csv
