@@ -6,6 +6,7 @@ Docente: Prof. Giandomenico Palumbo
 **Il contenuto di questo corso evolve in linea con l'evoluzione tecnologica**
 
 DATA INIZIO CORSO: 02 FEBBRAIO 2023
+DATA CONCLUSIONE CORSO: 25 MAGGIO 2023
 
 * Sessione 1. febbraio/maggio 2023, ogni giovedi' dalle ore 14:30 alle ore 16:45, presso il Laboratorio di Informatica, sede centrale IIS via Roma 298
 
